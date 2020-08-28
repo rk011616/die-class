@@ -1,2 +1,2 @@
-# die-class
-2401 First Lab
+# Git Lab #2
+## First Team Member: Rowan Knutsen
